@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="BezierTextOutDemo.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BezierTextoutDemo"/>
+        <UsageCount Value="22"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="32" Y="39"/>
+        <UsageCount Value="22"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="curvedtext.pas"/>
+        <UnitName Value="CurvedText"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="202"/>
+        <CursorPos X="64" Y="13"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <TopLine Value="2711"/>
+        <CursorPos Y="2720"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\development\lazarus_trunk\components\lzRichEdit\interfaces\win32\win32wsrichbox.pas"/>
+        <UnitName Value="Win32WSRichBox"/>
+        <TopLine Value="294"/>
+        <CursorPos Y="304"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\development\lazarus_trunk\components\lzRichEdit\interfaces\gtk2\gtk2wsrichbox.pas"/>
+        <UnitName Value="Gtk2WSRichBox"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="30"/>
+        <CursorPos X="33" Y="41"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="..\..\development\lazarus_trunk\components\lzRichEdit\interfaces\win32\win32wsrichbox.pas"/>
+        <Caret Line="155" Column="69" TopLine="200"/>
+      </Position1>
+      <Position2>
+        <Filename Value="..\..\development\lazarus_trunk\components\lzRichEdit\interfaces\win32\win32wsrichbox.pas"/>
+        <Caret Line="305" Column="10" TopLine="31"/>
+      </Position2>
+      <Position3>
+        <Filename Value="..\..\development\lazarus_trunk\components\lzRichEdit\interfaces\win32\win32wsrichbox.pas"/>
+        <Caret Line="304" TopLine="294"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

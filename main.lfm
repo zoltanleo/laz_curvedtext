@@ -1,0 +1,19 @@
+object Form1: TForm1
+  Left = 332
+  Height = 169
+  Top = 160
+  Width = 546
+  Caption = 'Bézier Text Out Test'
+  ClientHeight = 169
+  ClientWidth = 546
+  LCLVersion = '1.2.6.0'
+  object btnExec: TButton
+    Left = 456
+    Height = 25
+    Top = 8
+    Width = 75
+    Caption = 'Exec'
+    OnClick = btnExecClick
+    TabOrder = 0
+  end
+end
